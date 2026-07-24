@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="14e5a2c1831a835032dc11d6feaad393" extends="task" label="Pedido" max_length="40" name="x_1441719_aumiau_0_x_aumiau_pedido" type="collection">
+        <element display="true" label="Produto" max_length="32" name="produto" reference="x_1441719_aumiau_0_x_aumiau_produto" type="reference"/>
+        <element label="Nome do Cliente" max_length="40" name="nome_do_cliente" type="string"/>
+        <element label="Data de Entrega" max_length="40" name="data_de_entrega" type="glide_date"/>
+        <element label="Desconto" max_length="40" name="desconto" type="boolean"/>
+    </element>
+</database>

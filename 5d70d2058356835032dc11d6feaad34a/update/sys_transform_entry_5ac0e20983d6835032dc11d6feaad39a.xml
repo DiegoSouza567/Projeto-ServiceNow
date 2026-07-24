@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="x_1441719_aumiau_0_x_aumiau_produto_transform_map">d2c0e20983d6835032dc11d6feaad363</map>
+        <reference_value_field/>
+        <source_field>u_unidade</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_1441719_aumiau_0_1784850472829</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-23 23:49:58</sys_created_on>
+        <sys_id>5ac0e20983d6835032dc11d6feaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_unidade</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_update_name>sys_transform_entry_5ac0e20983d6835032dc11d6feaad39a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-23 23:49:58</sys_updated_on>
+        <target_field>unidade</target_field>
+        <target_table>x_1441719_aumiau_0_x_aumiau_produto</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>

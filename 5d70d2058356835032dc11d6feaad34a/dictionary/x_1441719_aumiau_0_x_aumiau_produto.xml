@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="e1c0a20983d6835032dc11d6feaad318" label="Produto" max_length="40" name="x_1441719_aumiau_0_x_aumiau_produto" type="collection">
+        <element attributes="encode_utf8=false" label="Categoria" max_length="32" name="categoria" reference="x_1441719_aumiau_0_x_aumiau_categoria" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Marca" max_length="40" name="marca" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="150" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SKU" max_length="40" name="sku" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Descricao" max_length="150" name="descricao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Estoque" max_length="40" name="estoque" type="integer"/>
+        <element label="Preco" max_length="38" name="preco" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Unidade" max_length="40" name="unidade" type="string"/>
+        <index name="index">
+            <element name="categoria"/>
+        </index>
+    </element>
+</database>

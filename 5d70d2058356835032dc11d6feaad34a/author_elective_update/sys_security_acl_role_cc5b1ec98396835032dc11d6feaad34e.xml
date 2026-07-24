@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-23 23:26:04</sys_created_on>
+        <sys_id>cc5b1ec98396835032dc11d6feaad34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441719_aumiau_0_produto.x_1441719_aumiau_0.aumiau_user</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_security_acl display_value="x_1441719_aumiau_0_produto">fb4b1ec98396835032dc11d6feaad320</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cc5b1ec98396835032dc11d6feaad34e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-23 23:26:04</sys_updated_on>
+        <sys_user_role display_value="x_1441719_aumiau_0.aumiau_user" name="x_1441719_aumiau_0.aumiau_user">e970d2058356835032dc11d6feaad36d</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</application>
+        <file_path/>
+        <instance_id>d165f1ab93d90f18c4e8ddd548373c14</instance_id>
+        <instance_name>dev403336</instance_name>
+        <name>sys_security_acl_role_cc5b1ec98396835032dc11d6feaad34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:26:04</sys_created_on><sys_id>cc5b1ec98396835032dc11d6feaad34e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1441719_aumiau_0_produto.x_1441719_aumiau_0.aumiau_user</sys_name><sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package><sys_policy/><sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope><sys_security_acl display_value="x_1441719_aumiau_0_produto">fb4b1ec98396835032dc11d6feaad320</sys_security_acl><sys_update_name>sys_security_acl_role_cc5b1ec98396835032dc11d6feaad34e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:26:04</sys_updated_on><sys_user_role display_value="x_1441719_aumiau_0.aumiau_user" name="x_1441719_aumiau_0.aumiau_user">e970d2058356835032dc11d6feaad36d</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2026343924</payload_hash>
+        <record_name>x_1441719_aumiau_0_produto.x_1441719_aumiau_0.aumiau_user</record_name>
+        <reverted_from/>
+        <source>6970d2058356835032dc11d6feaad34e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-23 23:26:04</sys_created_on>
+        <sys_id>885b1ec98396835032dc11d6feaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f914ce9910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-23 23:26:04</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>485b1ec9c6968350d8001d710b220e63</update_guid>
+        <update_guid_history>485b1ec9c6968350d8001d710b220e63:2026343924</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1441719_aumiau_0_produto.x_1441719_aumiau_0.aumiau_user">a2ff968583d6835032dc11d6feaad347</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-23 23:46:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>04be75650e374a4d8151bffa6119c9c1</sys_id>
+        <sys_metadata>cc5b1ec98396835032dc11d6feaad34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441719_aumiau_0_produto.x_1441719_aumiau_0.aumiau_user</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_parent display_value="">fb4b1ec98396835032dc11d6feaad320</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_scope_delete display_value="">9f54274c9b7b48f7ad612c7991e3ed59</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_cc5b1ec98396835032dc11d6feaad34e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_cc5b1ec98396835032dc11d6feaad34e">885b1ec98396835032dc11d6feaad364</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-23 23:46:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

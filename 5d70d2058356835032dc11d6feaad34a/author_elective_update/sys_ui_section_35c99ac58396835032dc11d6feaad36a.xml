@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="35c99ac58396835032dc11d6feaad36a" sys_domain="global" table="x_1441719_aumiau_0_1784848700929" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>39c99ac58396835032dc11d6feaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_estoque</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>b5c99ac58396835032dc11d6feaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_categoria</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>35c99ac58396835032dc11d6feaad371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_preco</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>b1c99ac58396835032dc11d6feaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sku</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>31c99ac58396835032dc11d6feaad373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>bdc99ac58396835032dc11d6feaad373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nome</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>3dc99ac58396835032dc11d6feaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_descricao</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>b9c99ac58396835032dc11d6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_marca</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>39c99ac58396835032dc11d6feaad376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_unidade</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>b5c99ac58396835032dc11d6feaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_id>35c99ac58396835032dc11d6feaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1441719_aumiau_0_1784848700929</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35c99ac58396835032dc11d6feaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1441719_aumiau_0_1784848700929</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+            <sys_update_name>sys_ui_section_35c99ac58396835032dc11d6feaad36a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</application>
+        <file_path/>
+        <instance_id>d165f1ab93d90f18c4e8ddd548373c14</instance_id>
+        <instance_name>dev403336</instance_name>
+        <name>sys_ui_section_35c99ac58396835032dc11d6feaad36a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="35c99ac58396835032dc11d6feaad36a" sys_domain="global" table="x_1441719_aumiau_0_1784848700929" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>39c99ac58396835032dc11d6feaad36f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_estoque</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>b5c99ac58396835032dc11d6feaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_categoria</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>35c99ac58396835032dc11d6feaad371</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_preco</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>b1c99ac58396835032dc11d6feaad372</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_sku</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>31c99ac58396835032dc11d6feaad373</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>bdc99ac58396835032dc11d6feaad373</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_nome</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>3dc99ac58396835032dc11d6feaad374</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_descricao</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>b9c99ac58396835032dc11d6feaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_marca</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>39c99ac58396835032dc11d6feaad376</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_unidade</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>b5c99ac58396835032dc11d6feaad377</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_id>35c99ac58396835032dc11d6feaad378</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1441719_aumiau_0_1784848700929" sys_domain="global" view="Default view">35c99ac58396835032dc11d6feaad36a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1441719_aumiau_0_1784848700929</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-23 23:19:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>35c99ac58396835032dc11d6feaad36a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1441719_aumiau_0_1784848700929</sys_name><sys_overrides/><sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package><sys_policy/><sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope><sys_update_name>sys_ui_section_35c99ac58396835032dc11d6feaad36a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-23 23:19:21</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-463230313</payload_hash>
+        <record_name>Aumiau 0 1784848700929</record_name>
+        <reverted_from/>
+        <source>6970d2058356835032dc11d6feaad34e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-23 23:19:21</sys_created_on>
+        <sys_id>7dc99ac58396835032dc11d6feaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f9146c4840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-23 23:19:21</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>bdc99ac5489683505d60dfc7b2f57b7b</update_guid>
+        <update_guid_history>bdc99ac5489683505d60dfc7b2f57b7b:-463230313,f9c99ac53f968350f131c3af8419176e:1510953287</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-23 23:20:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>66a144de11aa4eb7a58d9d2664ebaf81</sys_id>
+        <sys_metadata>35c99ac58396835032dc11d6feaad36a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441719_aumiau_0_1784848700929</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_parent display_value="">c58912c58396835032dc11d6feaad325</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_scope_delete display_value="">9f54274c9b7b48f7ad612c7991e3ed59</sys_scope_delete>
+        <sys_update_name>sys_ui_section_35c99ac58396835032dc11d6feaad36a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_35c99ac58396835032dc11d6feaad36a">7dc99ac58396835032dc11d6feaad37c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-23 23:20:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

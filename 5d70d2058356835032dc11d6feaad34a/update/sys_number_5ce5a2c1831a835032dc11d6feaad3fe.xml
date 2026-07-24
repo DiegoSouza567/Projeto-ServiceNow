@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1441719_aumiau_0_x_aumiau_pedido">x_1441719_aumiau_0_x_aumiau_pedido</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>PED</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-24 00:12:14</sys_created_on>
+        <sys_id>5ce5a2c1831a835032dc11d6feaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PED</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_update_name>sys_number_5ce5a2c1831a835032dc11d6feaad3fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-24 00:12:14</sys_updated_on>
+    </sys_number>
+</record_update>
