@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Solicitar produto">489a67d18352475032dc11d6feaad3be</sc_cat_item>
+        <sc_category display_value="Loja AuMiau">6f77eb1d8312475032dc11d6feaad35d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-24 23:52:33</sys_created_on>
+        <sys_id>b1fa67158352475032dc11d6feaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loja AuMiau.Solicitar produto</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_update_name>sc_cat_item_category_b1fa67158352475032dc11d6feaad366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-24 23:52:33</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</application>
+        <file_path/>
+        <instance_id>d165f1ab93d90f18c4e8ddd548373c14</instance_id>
+        <instance_name>dev403336</instance_name>
+        <name>sc_cat_item_category_b1fa67158352475032dc11d6feaad366</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitar produto">489a67d18352475032dc11d6feaad3be</sc_cat_item><sc_category display_value="Loja AuMiau">6f77eb1d8312475032dc11d6feaad35d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-24 23:52:33</sys_created_on><sys_id>b1fa67158352475032dc11d6feaad366</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loja AuMiau.Solicitar produto</sys_name><sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package><sys_policy/><sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope><sys_update_name>sc_cat_item_category_b1fa67158352475032dc11d6feaad366</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-24 23:52:33</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1506139196</payload_hash>
+        <record_name>Loja AuMiau.Solicitar produto</record_name>
+        <reverted_from/>
+        <source>f4ca1755839e075032dc11d6feaad373</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-24 23:52:33</sys_created_on>
+        <sys_id>39fa67158352475032dc11d6feaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f968b84350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-24 23:52:33</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>f1fa67151d524750eaa16157bad9a86c</update_guid>
+        <update_guid_history>f1fa67151d524750eaa16157bad9a86c:-1506139196</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loja AuMiau.Solicitar produto">b9fa67158352475032dc11d6feaad3b3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-24 23:52:34</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2c582c958f754402b2ace2c3a2e1ed04</sys_id>
+        <sys_metadata>b1fa67158352475032dc11d6feaad366</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loja AuMiau.Solicitar produto</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_scope_delete display_value="">9f54274c9b7b48f7ad612c7991e3ed59</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b1fa67158352475032dc11d6feaad366</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b1fa67158352475032dc11d6feaad366">39fa67158352475032dc11d6feaad36d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-24 23:52:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
