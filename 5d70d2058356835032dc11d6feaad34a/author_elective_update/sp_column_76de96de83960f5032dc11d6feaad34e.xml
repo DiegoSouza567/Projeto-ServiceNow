@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <aria_label/>
+        <class_name/>
+        <order>2</order>
+        <semantic_tag/>
+        <size>1</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">31ced2de83960f5032dc11d6feaad3b9</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 20:53:57</sys_created_on>
+        <sys_id>76de96de83960f5032dc11d6feaad34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_update_name>sp_column_76de96de83960f5032dc11d6feaad34e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 20:53:57</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</application>
+        <file_path/>
+        <instance_id>d165f1ab93d90f18c4e8ddd548373c14</instance_id>
+        <instance_name>dev403336</instance_name>
+        <name>sp_column_76de96de83960f5032dc11d6feaad34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><aria_label/><class_name/><order>2</order><semantic_tag/><size>1</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">31ced2de83960f5032dc11d6feaad3b9</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-27 20:53:57</sys_created_on><sys_id>76de96de83960f5032dc11d6feaad34e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package><sys_policy/><sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope><sys_update_name>sp_column_76de96de83960f5032dc11d6feaad34e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-27 20:53:57</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-190954018</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>f4ca1755839e075032dc11d6feaad373</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 20:53:57</sys_created_on>
+        <sys_id>3ede96de83960f5032dc11d6feaad351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fa55b14b70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 20:53:57</sys_updated_on>
+        <type>Column</type>
+        <update_guid>fade96de2c960f50e0f10629335bdd50</update_guid>
+        <update_guid_history>fade96de2c960f50e0f10629335bdd50:-190954018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">60eed6de83960f5032dc11d6feaad32b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 20:54:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>2d6d0be10d25457ba36302df20a6ec39</sys_id>
+        <sys_metadata>76de96de83960f5032dc11d6feaad34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_scope_delete display_value="">9f54274c9b7b48f7ad612c7991e3ed59</sys_scope_delete>
+        <sys_update_name>sp_column_76de96de83960f5032dc11d6feaad34e</sys_update_name>
+        <sys_update_version display_value="sp_column_76de96de83960f5032dc11d6feaad34e">3ede96de83960f5032dc11d6feaad351</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 20:54:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <aria_label/>
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name>1</container_class_name>
+        <name>Home Page AuMiau - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="index_aumiau">ec37da1e83560f5032dc11d6feaad346</sp_page>
+        <subheader>true</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 20:20:30</sys_created_on>
+        <sys_id>7037d69e83560f5032dc11d6feaad373</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Home Page AuMiau - Container 2</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_update_name>sp_container_7037d69e83560f5032dc11d6feaad373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 20:49:45</sys_updated_on>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</application>
+        <file_path/>
+        <instance_id>d165f1ab93d90f18c4e8ddd548373c14</instance_id>
+        <instance_name>dev403336</instance_name>
+        <name>sp_container_7037d69e83560f5032dc11d6feaad373</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><aria_label/><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>homepage-quicklinks</class_name><container_class_name>1</container_class_name><name>Home Page AuMiau - Container 2</name><order>2</order><semantic_tag/><sp_page display_value="index_aumiau">ec37da1e83560f5032dc11d6feaad346</sp_page><subheader>true</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-27 20:20:30</sys_created_on><sys_id>7037d69e83560f5032dc11d6feaad373</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Home Page AuMiau - Container 2</sys_name><sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package><sys_policy/><sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope><sys_update_name>sp_container_7037d69e83560f5032dc11d6feaad373</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-27 20:49:45</sys_updated_on><title>Quick Links</title><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-47759842</payload_hash>
+        <record_name>Home Page AuMiau - Container 2</record_name>
+        <reverted_from/>
+        <source>f4ca1755839e075032dc11d6feaad373</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 20:49:46</sys_created_on>
+        <sys_id>55ed925e83960f5032dc11d6feaad36e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fa5573e880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 20:49:46</sys_updated_on>
+        <type>Container</type>
+        <update_guid>91ed925eda960f508ce610e992cfbb6d</update_guid>
+        <update_guid_history>91ed925eda960f508ce610e992cfbb6d:-47759842,e5cd125e76960f50450ad454c9c129ef:-1332974020,04ad1ada1e960f50dad69bb09cf3d9ba:-1381406883,784ddeda6c960f5045945ad62e7bae80:235854586,e23d1eda05960f50126e2086c2cc11cc:503067929,80eada96d3960f50d6f8e70cd55381a4:235854586,3f989e5284960f5020a1852835c22fbc:-1399915512,6e575e9e89560f501aaa3bb08967c882:-710943168,7837d69e94560f502cdd21dacf7c4a75:-5821552</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Home Page AuMiau - Container 2">a2b6b69e835a0f5032dc11d6feaad388</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 22:38:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>65f23d29d6404a1e804b11badcc2ae64</sys_id>
+        <sys_metadata>7037d69e83560f5032dc11d6feaad373</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Page AuMiau - Container 2</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_scope_delete display_value="">9f54274c9b7b48f7ad612c7991e3ed59</sys_scope_delete>
+        <sys_update_name>sp_container_7037d69e83560f5032dc11d6feaad373</sys_update_name>
+        <sys_update_version display_value="sp_container_7037d69e83560f5032dc11d6feaad373">55ed925e83960f5032dc11d6feaad36e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 22:38:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

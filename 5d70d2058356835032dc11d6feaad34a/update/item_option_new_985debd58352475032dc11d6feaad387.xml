@@ -5,8 +5,8 @@
         <cat_item display_value="Solicitar produto">489a67d18352475032dc11d6feaad3be</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>priority</choice_field>
+        <choice_table>x_1441719_aumiau_0_x_aumiau_pedido</choice_table>
         <conversational_label/>
         <create_roles/>
         <default_html_value/>
@@ -23,7 +23,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>priority</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -34,16 +34,16 @@
         <layout>normal</layout>
         <list_table/>
         <lookup_dependent_question/>
-        <lookup_label/>
+        <lookup_label>priority</lookup_label>
         <lookup_price/>
-        <lookup_source/>
+        <lookup_source>choices</lookup_source>
         <lookup_table>x_1441719_aumiau_0_x_aumiau_pedido</lookup_table>
         <lookup_unique>false</lookup_unique>
         <lookup_value>priority</lookup_value>
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>true</mask_use_encryption>
         <name>priority</name>
@@ -84,14 +84,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-07-25 00:04:40</sys_created_on>
         <sys_id>985debd58352475032dc11d6feaad387</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Prioridade</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>priority</sys_name>
         <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
         <sys_policy/>
         <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
         <sys_update_name>item_option_new_985debd58352475032dc11d6feaad387</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-07-25 00:25:28</sys_updated_on>
+        <sys_updated_on>2026-07-27 18:42:34</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
