@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="ad14a2cd83d6835032dc11d6feaad3a1" extends="task" label="Ouvidoria" max_length="40" name="x_1441719_aumiau_0_x_aumiau_ouvidoria" type="collection">
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="ad14a2cd83d6835032dc11d6feaad3a1" extends="task" label="Ouvidoria" max_length="40" name="x_1441719_aumiau_0_x_aumiau_ouvidoria" text_index="true" type="collection">
         <element display="true" label="Tipo de problema" mandatory="true" max_length="255" name="tipo_de_problema" type="string"/>
         <element label="Follow-up" max_length="40" name="follow_u0" type="boolean"/>
     </element>

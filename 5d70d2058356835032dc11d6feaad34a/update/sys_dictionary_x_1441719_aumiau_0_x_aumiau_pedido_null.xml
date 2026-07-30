@@ -54,9 +54,9 @@
         <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
         <sys_update_name>sys_dictionary_x_1441719_aumiau_0_x_aumiau_pedido_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-07-24 00:12:14</sys_updated_on>
+        <sys_updated_on>2026-07-30 20:25:06</sys_updated_on>
         <table_reference>false</table_reference>
-        <text_index>false</text_index>
+        <text_index>true</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>

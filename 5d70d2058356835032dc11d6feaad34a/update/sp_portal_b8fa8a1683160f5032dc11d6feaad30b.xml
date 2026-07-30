@@ -2,7 +2,7 @@
     <sp_portal action="INSERT_OR_UPDATE">
         <alternate_portal/>
         <communication_channels/>
-        <css_variables>$brand-primary:#FFFFFF;
+        <css_variables>$brand-primary:#159AA6;
 $body-bg:#FFFFFF;
 $state-success-text:black;
 $sp-homepage-bg:#F5F6F7;
@@ -53,14 +53,14 @@ $text-muted:#37444A;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-07-27 19:29:44</sys_created_on>
         <sys_id>b8fa8a1683160f5032dc11d6feaad30b</sys_id>
-        <sys_mod_count>54</sys_mod_count>
+        <sys_mod_count>55</sys_mod_count>
         <sys_name>AuMiau Pet Shop</sys_name>
         <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
         <sys_policy/>
         <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
         <sys_update_name>sp_portal_b8fa8a1683160f5032dc11d6feaad30b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-07-28 00:28:20</sys_updated_on>
+        <sys_updated_on>2026-07-30 20:20:14</sys_updated_on>
         <theme display_value="Coral">281507c44317d210ca4c1f425db8f2fd</theme>
         <title>AuMiau Pet Shop</title>
         <ts_index_group/>

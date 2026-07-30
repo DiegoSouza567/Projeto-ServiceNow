@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1441719_aumiau_0_x_aumiau_pedido" version="2" view="workspace-aumiau-pet-shop-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1441719_aumiau_0_x_aumiau_pedido" element="NULL" name="x_1441719_aumiau_0_x_aumiau_pedido" parent="NULL" relationship="NULL" sys_domain="global" view="72f47913a2520790aaddf72816baca75">8015f1538352079032dc11d6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-30 20:25:17</sys_created_on>
+            <sys_id>8415f1538352079032dc11d6feaad351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-30 20:25:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_1441719_aumiau_0_x_aumiau_pedido" element="NULL" name="x_1441719_aumiau_0_x_aumiau_pedido" parent="NULL" relationship="NULL" sys_domain="global" view="72f47913a2520790aaddf72816baca75">8015f1538352079032dc11d6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-30 20:25:17</sys_created_on>
+            <sys_id>0415f1538352079032dc11d6feaad352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-30 20:25:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_1441719_aumiau_0_x_aumiau_pedido" element="NULL" name="x_1441719_aumiau_0_x_aumiau_pedido" parent="NULL" relationship="NULL" sys_domain="global" view="72f47913a2520790aaddf72816baca75">8015f1538352079032dc11d6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-30 20:25:17</sys_created_on>
+            <sys_id>8815f1538352079032dc11d6feaad352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-30 20:25:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_1441719_aumiau_0_x_aumiau_pedido" element="NULL" name="x_1441719_aumiau_0_x_aumiau_pedido" parent="NULL" relationship="NULL" sys_domain="global" view="72f47913a2520790aaddf72816baca75">8015f1538352079032dc11d6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-30 20:25:17</sys_created_on>
+            <sys_id>0015f1538352079032dc11d6feaad353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-30 20:25:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_1441719_aumiau_0_x_aumiau_pedido" element="NULL" name="x_1441719_aumiau_0_x_aumiau_pedido" parent="NULL" relationship="NULL" sys_domain="global" view="72f47913a2520790aaddf72816baca75">8015f1538352079032dc11d6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-30 20:25:17</sys_created_on>
+            <sys_id>8415f1538352079032dc11d6feaad353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-30 20:25:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_1441719_aumiau_0_x_aumiau_pedido" element="NULL" name="x_1441719_aumiau_0_x_aumiau_pedido" parent="NULL" relationship="NULL" sys_domain="global" view="72f47913a2520790aaddf72816baca75">8015f1538352079032dc11d6feaad343</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-30 20:25:17</sys_created_on>
+            <sys_id>0c15f1538352079032dc11d6feaad353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-30 20:25:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1441719_aumiau_0_x_aumiau_pedido</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-30 20:25:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8015f1538352079032dc11d6feaad343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1441719_aumiau_0_x_aumiau_pedido</sys_name>
+            <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+            <sys_update_name>sys_ui_list_x_1441719_aumiau_0_x_aumiau_pedido_workspace-aumiau-pet-shop-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-30 20:25:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace AuMiau Pet Shop 0" name="workspace-aumiau-pet-shop-0">72f47913a2520790aaddf72816baca75</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

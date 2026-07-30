@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1441719_aumiau_0_aumiau_pet_shop_search_profile_default_spell_check_dictionary">c60531538352079032dc11d6feaad3b8</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="aumiau-pet-shop Search Profile">f6f479132b520790489b92edf584a98c</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-30 20:25:09</sys_created_on>
+        <sys_id>420531538352079032dc11d6feaad3cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441719_aumiau_0_aumiau_pet_shop_search_profile_default_spell_check_dictionary.aumiau-pet-shop Search Profile</sys_name>
+        <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_420531538352079032dc11d6feaad3cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-30 20:25:09</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
