@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
     <sp_container action="INSERT_OR_UPDATE">
         <aria_label/>
-        <background_color>#ffffff</background_color>
+        <background_color>$sp-homepage-bg</background_color>
         <background_image/>
         <background_style>default</background_style>
         <bootstrap_alt>false</bootstrap_alt>
@@ -16,14 +16,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-07-27 22:40:57</sys_created_on>
         <sys_id>92573212839a0f5032dc11d6feaad3bf</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Home Page AuMiau - Container 2</sys_name>
         <sys_package display_value="AuMiau Pet Shop" source="x_1441719_aumiau_0">5d70d2058356835032dc11d6feaad34a</sys_package>
         <sys_policy/>
         <sys_scope display_value="AuMiau Pet Shop">5d70d2058356835032dc11d6feaad34a</sys_scope>
         <sys_update_name>sp_container_92573212839a0f5032dc11d6feaad3bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-07-28 00:33:52</sys_updated_on>
+        <sys_updated_on>2026-07-30 23:50:02</sys_updated_on>
         <title>Quick Links</title>
         <width>container</width>
     </sp_container>
